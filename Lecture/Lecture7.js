@@ -64,12 +64,12 @@
 
 {
     function html(){
-        document.getElementById('demo').innerHTML = 'Hi , How Are You!'
+        document.getElementById("para").innerText = "hello there";
     }
 
     function css(){
-        document.getElementById('demo').style.backgroundColor = 'purpule'
-        document.getElementById('demo').style.color = 'white'
-        document.getElementById('demo').style.textDecoration = 'underline'
+        document.getElementById('para').style.backgroundColor = 'purple'
+        document.getElementById('para').style.color = 'white'
+        document.getElementById('para').style.textDecoration = 'underline'
     }
 }
