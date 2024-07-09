@@ -115,10 +115,10 @@
 
 // Gretherthan or Equal To
 {
-    let x = 20;
-    let y = "20";
-    let z1 = x > y
-    let z2 = x >= y
-    console.log(z1);
-    console.log(z2);
+    // let x = 20;
+    // let y = "20";
+    // let z1 = x > y
+    // let z2 = x >= y
+    // console.log(z1);
+    // console.log(z2);
 }

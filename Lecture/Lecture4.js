@@ -100,11 +100,11 @@
 
 // Logical NOT
 {
-    let x = true
-    let y = false
-    let z = !(y)
+    // let x = true
+    // let y = false
+    // let z = !(y)
 
-    let zz = !(true && false) + (false && true)
+    // let zz = !(true && false) + (false && true)
 
-    console.log(zz);
+    // console.log(zz);
 }

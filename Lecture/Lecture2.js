@@ -35,12 +35,12 @@
 // const with Hoisting
 {
     // const a , b , c //Not possible Hosting
-    const x = 10
+    // const x = 10
 }
 
 /*Javascript Template Literals (back-tik) */
 
-let i = 'skillQode'
+// let i = 'skillQode'
 // {
 //     let subject = 'Javascript'
 //     let hardness = 'Normal'
@@ -132,16 +132,16 @@ let x = 'number'
 let z = 4
 let y = 5
 
-// console.log(z + z + x + z + z + z);
+console.log(z + z + x + z + z + z);
 
-// console.log(x * z);
+console.log(x * z);
 
-// console.log(typeof NaN);
+console.log(typeof NaN);
 
-// console.log(x * x);
+console.log(x * x);
 
-// console.log(z * z * x + z + z * z - z);
+console.log(z * z * x + z + z * z - z);
 
-// console.log(((y * z) + x + (x + (x*x))));
+console.log(((y * z) + x + (x + (x*x))));
 
 console.log((y - z) + y * (z + z));

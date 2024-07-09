@@ -1,7 +1,7 @@
 // Javascript for.....of Loop / forEach Loop
 
 {
-    // let Array = ['html' , 'css' , 'bootstrap' , 'sass' , 'tailwindcss' , 'javascript' , 'reactjs' , 'nextja']
+    let Array = ['html' , 'css' , 'bootstrap' , 'sass' , 'tailwindcss' , 'javascript' , 'reactjs' , 'nextja']
 
     // console.log(Array[0]);
 
@@ -13,13 +13,13 @@
 
     // Array.forEach((item) => console.log('forEach' , item))
 
-    // let num = [10 , 20 , 30 , 40]
+    let num = [10 , 20 , 30 , 40]
 
     // for(let multi of num){
     //     console.log(multi * 10);
     // }
 
-    // num.forEach((item) => console.log(item * 20))
+    // num.forEach((multi) => console.log(multi * 20))
 
     // num.map((item) => console.log(item * 30))
 }
