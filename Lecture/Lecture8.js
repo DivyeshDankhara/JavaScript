@@ -53,5 +53,30 @@
 }
 
 {
-    
+    // function sum(a , b){
+    //     function callback(){
+    //         console.log(`This is Callback Function`);
+    //     }
+    //     callback()
+    //     return a + b
+    // }
+
+    // console.log(sum(20 , 30));
 }
+
+{
+    // function sum(a , b){
+    //     return(
+    //         function call(){
+    //             console.log(`This is Callback Function`);
+    //         }
+    //         callback();
+    //         a + b
+    //     )
+    // }
+
+    // console.log(sum(20 , 30));
+}
+
+
+// IIFE
