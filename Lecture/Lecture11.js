@@ -6,7 +6,7 @@
 // console.log(Number(x));
 
 
-// let x = 216.5678127;
+let x = 216.5678127;
 // // let x = 0.00000000182;
 // console.log(x);
 // console.log(x.toString());
@@ -15,7 +15,7 @@
 // console.log(x.toExponential(5));
 // console.log(x.toPrecision());
 // console.log(x.toPrecision(6));
-// console.log(x.toFixed());
+console.log(x.toFixed());
 // console.log(x.toFixed(4));
 // console.log(x.valueOf());
 
