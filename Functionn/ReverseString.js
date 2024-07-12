@@ -1,3 +1,5 @@
+// 6. Write a program to reverse a given string.
+
 function reverse(str){
    let len = str.length;
    let ans = "";
@@ -9,5 +11,4 @@ function reverse(str){
    console.log(ans);
 }
 
-console.log();
 reverse("Divyesh");
