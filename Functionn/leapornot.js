@@ -1,3 +1,5 @@
+// 11. Write a program to check if a year is a leap year or not.
+
 function leap(year){
     if(year%4 == 0)
     {
