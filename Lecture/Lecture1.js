@@ -90,5 +90,5 @@
 // let _names = "skillqode"
 // console.log(_names);
 
-// let 12_names = "skillqode" (Not valid)
+// let 12_names = "skillqode" // (Not valid)
 // console.log(12_names);

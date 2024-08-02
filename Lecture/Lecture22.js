@@ -12,6 +12,17 @@
     // }
 }
 
+
+// let obj = {
+//     name : "john",
+//     age : 18,
+//     salary : 33000,
+// }
+// obj = JSON.stringify(obj);
+// console.log(obj);
+// obj = JSON.parse(obj);
+// console.log(obj);
+
 // In JSON, the data are in key/value pairs separated by a comma ,.
 
 // JSON was derived from JavaScript. So, the JSON syntax resembles JavaScript object literal syntax. However, the JSON format can be accessed and be created by other programming languages too.
@@ -145,18 +156,19 @@
 
 
 // Post Method
-fetch('https://dummyjson.com/products/add', {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({
-      title: 'BMW Pencil',
-      description: 'BMW Pencil is used for Architecture.',
-      price: 5,
-      quantity: 150
-    })
-  })
-  .then(res => res.json())
-  .then(console.log);
+// fetch('https://dummyjson.com/products/add', {
+//     method: 'POST',
+//     headers: { 'Content-Type': 'application/json' },
+//     body: JSON.stringify({
+//       title: 'BMW Pencil',
+//       description: 'BMW Pencil is used for Architecture.',
+//       price: 5,
+//       quantity: 150
+//     })
+//   })
+//   .then(res => res.json())
+//   .then(console.log);
+
 
 
 //   Get Method
@@ -168,12 +180,14 @@ fetch('https://dummyjson.com/products/add', {
 
 // Put Mathod
 /* updating title of product with id 1 */
-fetch('https://dummyjson.com/products/1', {
-    method: 'PUT', /* or PATCH */
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({
-      title: 'Apsara Pencil'
-    })
-  })
-  .then(res => res.json())
-  .then(console.log);
+// fetch('https://dummyjson.com/products/1', {
+//     method: 'PUT', /* or PATCH */
+//     headers: { 'Content-Type': 'application/json' },
+//     body: JSON.stringify({
+//       title: 'Apsara Pencil'
+//     })
+//   })
+//   .then(res => res.json())
+//   .then(console.log);
+
+
